@@ -1,0 +1,6 @@
+@WebshopDevops_HostAddress = http://localhost:5031
+
+GET {{WebshopDevops_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
